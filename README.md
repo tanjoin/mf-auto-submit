@@ -6,15 +6,15 @@ MF が jQuery を利用していることを前提としています
 
 ## 使い方
 
-0. Bookmarklet を設定
+### 0. Bookmarklet を設定
 
 リンクをブラウザのブックマークのところにドラッグ・アンド・ドロップ
 
-1. [ここ](https://moneyforward.com/accounts) にアクセス
+### 1. [ここ](https://moneyforward.com/accounts) にアクセス
 
 あらかじめアカウントと口座情報を登録する必要があります
 
-2. Bookmarklet を実行
+### 2. Bookmarklet を実行
 
 先程ブックマークしたものをクリックする
 
