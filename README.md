@@ -8,7 +8,7 @@ MF が jQuery を利用していることを前提としています
 
 ### 0. Bookmarklet を設定
 
-リンクをブラウザのブックマークのところにドラッグ・アンド・ドロップ
+[ここ](https://tanjoin.github.io/mf-auto-submit) のリンクをブラウザのブックマークのところにドラッグ・アンド・ドロップ
 
 ### 1. [ここ](https://moneyforward.com/accounts) にアクセス
 
